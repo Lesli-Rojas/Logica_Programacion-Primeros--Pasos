@@ -1,0 +1,34 @@
+<meta charset="UTF-8">
+
+<script>
+	document.write("La edad de Jose Luis es de...");
+	document.write("<br>");
+	document.write("2023"-"29");
+</script>
+<br>
+<br>
+<br>
+
+<br>
+<script>
+
+	document.write("La suma de las edades de Heather, Jenni y Blue es de...");
+	document.write("<br>");
+	document.write((20 + 25 + 15));
+	document.write("<br>");
+	document.write("<br>");
+	document.write(" Heather nació en el año...");
+	document.write("<br>");
+	document.write(2023 - 20);
+    document.write("<br>");
+    document.write("<br>");
+	document.write("Jenni nació en el año...");
+	document.write("<br>");
+	document.write(2023 - 5);
+	document.write("<br>");
+	document.write("<br>");
+	document.write("Blue nació en el año..");
+	document.write("<br>");
+	document.write(2003 - 15);
+</script>
+</script>
