@@ -1,0 +1,20 @@
+<meta charset="UTF-8">
+
+<h3>¿Alcohol o Gasolina?</h3>
+
+<script>
+	var tanque=40;
+	var gasolina=480;
+	var ConsumoDeLaGasolina = gasolina / tanque;
+
+
+    var alcohol=300;
+    var ConsumoDelArcohol = alcohol / tanque;
+
+
+    document.write("¿Cuantos kilometros recorre el carrro por cada litro de gasolina?"+ ConsumoDeLaGasolina + "por litro")
+    document.write("<br>")
+    document.write("<br>")
+    document.write("¿Cauñ es la eficiencia del carro usando alcohol?" + ConsumoDelArcohol + "por litro")
+
+</script>
